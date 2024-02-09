@@ -1,1 +1,0 @@
-# sdg-morocco-prod.github.io
